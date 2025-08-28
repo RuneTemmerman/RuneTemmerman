@@ -1,11 +1,11 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+Bijj een platte batterij dien je deze op teladen door deze uit de houder te halen.
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Draadloze verbindingen wordt gemaakt via de seriele bluetooth app met een android phone. gebruik geen IOS deze werkt niet voor een ESP 32.
 
 #### commando's
 debug [on/off]  
@@ -21,10 +21,10 @@ calibrate black
 calibrate white  
 
 ### kalibratie
-uitleg kalibratie  
+Voor het kalibreren van de sensor moet je de auto op een zwarte ondergrond plaatsen en via de bluetooth app het comando calibrate black ingeven daarna plaats je de auto op een witte achtergrond en geef je het comando calibrate white in. na dat dit gebeurd is druk je op debug om te kijken of deze waardes wel stroken met de gewenste waardes
 
 ### settings
-De robot rijdt stabiel met volgende parameters:  
+De robot rijdt stabiel met volgende parameters: DIFF: 0,5- KI: 0 - Kp: 10 KD: 0,3- power:120
 
 ### start/stop button
-uitleg locatie + werking start/stop button
+Het starten van het project kan gedaan worden door de switch aan te schakelen deze is verbonden met GIOPIN 17 van de ESP 32 deze zorgter voor dat de loop van het programma kan gerunt worden.
