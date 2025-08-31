@@ -11,7 +11,7 @@ Met deze gids bouw je een eenvoudige line-following robot met een **ESP32** en a
 - **2 DC-motoren**
 - **Batterijhouder**
 - **3D-geprinte onderdelen** (wielhouders, chassis) – te vinden in de GitHub-repository
-- **T-strip** of sterke lijm
+sterke lijm
 - **Dubbelzijdige tape**
 - **Elektronische bedrading**
 
