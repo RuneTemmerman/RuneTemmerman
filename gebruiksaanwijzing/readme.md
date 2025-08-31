@@ -24,7 +24,6 @@ calibrate white
 Voor het kalibreren van de sensor moet je de auto op een zwarte ondergrond plaatsen en via de bluetooth app het comando calibrate black ingeven daarna plaats je de auto op een witte achtergrond en geef je het comando calibrate white in. na dat dit gebeurd is druk je op debug om te kijken of deze waardes wel stroken met de gewenste waardes
 
 ### settings
-De robot rijdt stabiel met volgende parameters: DIFF: 0,5- KI: 0 - Kp: 10 KD: 0,3- power:120
+De robot rijdt stabiel met volgende parameters: DIFF: 0,5- KI: 0 - Kp: 10 KD: 0,3- power:70
 
-### start/stop button
-Het starten van het project kan gedaan worden door de switch aan te schakelen deze is verbonden met GIOPIN 17 van de ESP 32 deze zorgter voor dat de loop van het programma kan gerunt worden.
+
