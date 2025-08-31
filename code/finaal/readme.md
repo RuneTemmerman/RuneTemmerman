@@ -15,8 +15,7 @@ Dit programma is ontworpen voor een ESP32-microcontroller en bestuurt een lijnvo
 
 ### PID-regelkring  
 - De positie ten opzichte van de lijn wordt bepaald met 7 sensoren.  
-- Een PID-regelaar (Proportioneel, Integrerend, Differentiërend) berekent een correctie-output.  
-- `iTerm` en `lastErr` worden gebruikt voor de integrale en afgeleide termen.  
+- Een PID-regelaar (Proportioneel, Integrerend, Differentiërend) berekent een correctie-output.    
 
 ### Sensorinput  
 - 7 sensoren op de pinnen: `{26, 25, 33, 32, 35, 34, 36}`.  
