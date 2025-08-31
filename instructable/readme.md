@@ -8,7 +8,6 @@ Met deze gids bouw je een eenvoudige line-following robot met een **ESP32** en a
 - **QTR-8A Reflectance Sensor Array** (Pololu)
 - **ESP32**
 - **DRV8833 Motor Driver**
-- **DIP-schakelaar**
 - **2 DC-motoren**
 - **Batterijhouder**
 - **3D-geprinte onderdelen** (wielhouders, chassis) – te vinden in de GitHub-repository
