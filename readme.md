@@ -7,21 +7,20 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ESP32
 
-motors: 
+motors: GA12-N20 Tandwielmotor Dc 50/1
 
-h-bridge:
+h-bridge: H brug DRV8833
 
-sensors:
+sensors: QTR-8A reflectance sensor array
 
-batteries:
+batteries: Lithium Batterij 18650
 
-wireless communication:
+wireless communication: ingebouwde bluetooth 
 
-distance sensor - motors:
+distance sensor - motors: 6cm
 
-weight:
+weight: 275g
 
 speed: 
-
