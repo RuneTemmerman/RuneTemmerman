@@ -30,7 +30,7 @@ Met deze gids bouw je een eenvoudige line-following robot met een **ESP32** en a
 
 #### 2.1 **Wielhouders plaatsen**
 - Plaats de wielhouders aan de achterkant van het chassis.  
-- Gebruik lijm of T-strip om ze stevig tegen het chassis te bevestigen.  
+- Gebruik lijm om ze stevig tegen het chassis te bevestigen.  
 - Laat de lijm goed drogen voordat je verdergaat.
 
 #### 2.2 **Motoren monteren**
@@ -38,7 +38,7 @@ Met deze gids bouw je een eenvoudige line-following robot met een **ESP32** en a
 - Zorg ervoor dat de motorassen vrij kunnen draaien en goed zijn uitgelijnd.
 
 #### 2.3 **Batterijhouder bevestigen**
-- Bevestig de batterijhouder aan de bovenkant van het chassis met T-strip of sterke lijm.  
+- Bevestig de batterijhouder aan de bovenkant van het chassis met sterke lijm.  
 - Zorg ervoor dat de batterijhouder stevig vastzit.
 
 ---
@@ -46,12 +46,8 @@ Met deze gids bouw je een eenvoudige line-following robot met een **ESP32** en a
 ### **Stap 3: Plaatsen van elektronica**
 
 #### 3.1 **QTR-8A sensor bevestigen**
-- Bevestig de QTR-8A Reflectance Sensor Array met dubbelzijdige tape aan de voorkant van het chassis.  
+- Bevestig de QTR-8A Reflectance Sensor Array met sterke lijm aan de voorkant van het chassis.  
 - Zorg ervoor dat de sensoren naar de grond gericht zijn en enkele millimeters boven het oppervlak zweven.
-
-#### 3.2 **DIP-schakelaar en breadboard**
-- Monteer de DIP-schakelaar op een breadboard.  
-- Verbind de DIP-schakelaar met de ESP32 volgens het schema in de GitHub-repository.
 
 ---
 
@@ -67,8 +63,7 @@ Met deze gids bouw je een eenvoudige line-following robot met een **ESP32** en a
 
 ---
 
-### **Stap 5: Controleer de assemblage**
-- Bekijk de foto van het afgewerkte project in de GitHub-repository om te controleren of alles correct is gemonteerd.  
+### **Stap 5: Controleer de assemblage** 
 - Controleer dat alle draden goed zijn aangesloten en dat niets los zit.
 
 ---
