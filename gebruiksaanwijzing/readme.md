@@ -8,9 +8,9 @@ Bijj een platte batterij dien je deze op teladen door deze uit de houder te hale
 Draadloze verbindingen wordt gemaakt via de seriele bluetooth app met een android phone. gebruik geen IOS deze werkt niet voor een ESP 32.
 
 #### commando's
-debug [on/off]  
-start  
-stop  
+debug 
+run on
+run off
 set cycle [µs]  
 set power [0..255]  
 set diff [0..1]  
